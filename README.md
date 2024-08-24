@@ -21,15 +21,12 @@ The dashboard will help HR teams and stakeholders make informed decisions by vis
 ## Exploring and Manipulating  Data Using DAX Query
 *	With DAX Query, I  effectively manipulated and analyzed the data to provide insights for visualization and  therefore identify areas of improvement for the HR.
 *	Creating  Measures and columns Using DAX functions such as count, sum, calculate, if, switch, divide and Date-time function for exploring some clean data for improve dashboard KPI in PowerBI.
-	  ![DAX QUERY]("C:\Users\Ipsita\OneDrive\Pictures\Picture1.png")
- 	![DAX QUERY](""C:\Users\Ipsita\OneDrive\Pictures\Picture2.png"")
 ## Power BI Dashboard Visualization
 *	Designing the dashboard layout
 *	Creating a measure table to aggregate and display the data using Dax functions
 *	Using Visulizations for charts and filters to filter and improve the dashboard
 *	Adding the Month column as Slicer and some other add some informative KPI.
 *	And then adding different charts like Card chart, Pie chart, Line chart, Table char  etc to make it interactive
-*	[HR DASHBOARD]("C:\Ipsita FIles\HR_ DASHBOARD_ PICTURES")
 
   
 
